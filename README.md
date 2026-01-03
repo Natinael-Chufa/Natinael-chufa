@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 Frontend: **HTML, CSS, Bootstrap, JavaScript, React**
+- 🌐 Frontend: **HTML, CSS, Bootstrap,TailwindCSS JavaScript, React**
 - ⚙️ Backend: **Node.js, Express, MySQL, mongoDB**
 - 🛠 Tools & Others: **Git, GitHub, Bash Scripting, NPM**
 - 🌍 Location: **Ethiopia**

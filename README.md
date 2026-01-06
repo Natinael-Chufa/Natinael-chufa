@@ -7,11 +7,11 @@
 
 ## 👨‍💻 About Me
 
-- 🌐 Frontend: **HTML, CSS, Bootstrap,TailwindCSS JavaScript, React**
+- 🌐 Frontend: **HTML, CSS, Bootstrap,TailwindCSS, JavaScript, React**
 - ⚙️ Backend: **Node.js, Express, MySQL, mongoDB**
 - 🛠 Tools & Others: **Git, GitHub, Bash Scripting, NPM**
 - 🌍 Location: **Ethiopia**
-- 💡 Interested in **remote work** and modern web technologies
+- 💡 Interested in **remote work** and modern web technologies.
 
 ---
 
@@ -32,7 +32,7 @@
 ## 📊 GitHub Overview
 
 ### 🚀 My GitHub Highlights
-- ✅ **Total Commits:** 405+
+- ✅ **Total Commits:** 420+
 - ⭐ **Total Stars:** 6+
 - 📂 **Public Projects:** Growing continuously
 - 🔥 **Active Contributor**
@@ -79,8 +79,8 @@
 ## 📫 Connect With Me
 
 - 💼 Portfolio: _Coming Soon_
-- 💬 LinkedIn: _Add your LinkedIn_
-- 📧 Email: _Add your email_
+- 💬 LinkedIn: [https://www.linkedin.com/in/natinael-chufamo-a6a580356?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 📧 Email: natinaelchufamo97@gmail.com
 
 ---
 

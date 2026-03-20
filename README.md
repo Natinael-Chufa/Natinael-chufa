@@ -7,28 +7,30 @@
 ## 👨‍💻 About Me
 
 - 🌐 Frontend: **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React**
-- ⚙️ Backend: **Node.js, Express, MySQL, MongoDB**
-- 🛠 Tools & Others: **Git, GitHub, Bash Scripting, NPM**
+- ⚙️ Backend: **Node.js, Express, MySQL, MongoDB, PostgreSQL**
+- 🛠 Tools & Others: **Git, GitHub, Bash Scripting, NPM, VS**
 - 🌍 Location: **Ethiopia**
 - 💡 Interested in **remote work**, scalable systems, and modern web technologies
 
 
 ## 🧩 Featured Projects
-Loading
-
+https://nati-food-delivery.vercel.app/
+Amazon.com clone
+Netflix.com clone
+Ecommerce-online-shopping system   💥Coming soon💥
 
 
 ## 💻 Tech Stack & Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mysql,mongodb,git,github,netlify,jquery,npm,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mysql,mongodb,postgresql,git,github,netlify,npm," />
 </p>
 
 
 ## 📊 GitHub Overview
 
 ### 🚀 GitHub Highlights
-- ✅ **510+ commits in the last year**
+- ✅ **750+ commits in the last year**
 - ⭐ **6+ GitHub stars**
 - 📂 **Multiple real-world projects**
 - 🔥 **Consistent & active contributor**

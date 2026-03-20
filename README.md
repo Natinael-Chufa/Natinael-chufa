@@ -14,10 +14,10 @@
 
 
 ## 🧩 Featured Projects
-https://nati-food-delivery.vercel.app/
-Amazon.com clone
-Netflix.com clone
-Ecommerce-online-shopping system   💥Coming soon💥
+- https://nati-food-delivery.vercel.app/
+- Amazon.com clone
+- Netflix.com clone
+- Ecommerce-online-shopping system   💥Coming soon💥
 
 
 ## 💻 Tech Stack & Skills

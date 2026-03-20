@@ -19,6 +19,11 @@
 - Netflix.com clone
 - Ecommerce-online-shopping system   💥Coming soon💥
 
+## 📈 Contribution Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natinael-chufa&theme=tokyo-night)
+
+
 
 ## 💻 Tech Stack & Skills
 
@@ -55,11 +60,6 @@
 ### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Natinael-chufa&theme=tokyonight&margin-w=10)
-
-
-## 📈 Contribution Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natinael-chufa&theme=tokyo-night)
 
 
 ## 🌍 Profile Stats

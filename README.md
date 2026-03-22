@@ -18,7 +18,7 @@
 - Amazon.com clone
 - Netflix.com clone
 - Ecommerce-online-shopping system   💥Coming soon💥
-- 💼 **Portfolio:** [Coming Soon](https://dev-natinael-chufamo.vercel.app/)
+- 💼 **Portfolio:** https://dev-natinael-chufamo.vercel.app
 
 ## 📈 Contribution Activity Graph
 
@@ -71,7 +71,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 **Portfolio:** [Coming Soon](https://dev-natinael-chufamo.vercel.app/)
+- 💼 **Portfolio:** https://dev-natinael-chufamo.vercel.app
 - 💬 **LinkedIn:** https://www.linkedin.com/in/natinael-chufamo-a6a580356
 - 📧 **Email:** developernatinael@gmail.com
 

@@ -91,28 +91,37 @@ Explore my projects, technical skills, and development journey.
 
 🔗 natinaelchufamo.pro.et
 
-📊 GitHub Overview
+## 📊 GitHub Overview
 
-GitHub Stats
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Natinael-chufa&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Natinael's GitHub Stats" />
+</p>
 
+### 💻 Most Used Languages
 
-Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natinael-chufa&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
 
+### 🔥 GitHub Contribution Streak
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Natinael-chufa&theme=tokyonight&hide_border=true&border_radius=10" alt="Natinael's GitHub Contribution Streak" />
+</p>
 
-Contribution Streak
+### 📅 Contribution Activity Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natinael-chufa&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+</p>
 
+### 🏆 GitHub Trophies
 
-Contribution Activity
-
-
-
-GitHub Trophies
-
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Natinael-chufa&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 📈 GitHub Highlights
 
 💻 1500+ commits in the last year (as previously tracked)

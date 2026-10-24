@@ -1,80 +1,147 @@
-# 👋 Hi, I'm Natinael Chufamo
+👋 Hi, I'm Natinael Chufamo
 
-🚀 **Full-Stack Developer | Software Engineer**  
-💻 Passionate about building **efficient, scalable, and user-friendly web applications**
+🚀 Full-Stack Developer | Software Engineer
 
+I build modern, responsive, and user-friendly web applications that solve real-world problems and help businesses establish a strong digital presence.
 
-## 👨‍💻 About Me
+💻 who loves building in full-stack development, scalable applications, clean code, and continuous learning.
 
-- 🌐 Frontend: **HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React**
-- ⚙️ Backend: **Node.js, Express, MySQL, MongoDB, PostgreSQL**
-- 🛠 Tools & Others: **Git, GitHub, Bash Scripting, NPM, VS**
-- 🌍 Location: **Ethiopia**
-- 💡 Interested in **remote work**, scalable systems, and modern web technologies
+🌍 Based in Ethiopia | Open to Remote Opportunities
 
+👨‍💻 About Me
 
-## 🧩 Featured Projects
-- https://nati-food-delivery.vercel.app/
-- Amazon.com clone
-- Netflix.com clone
-- Ecommerce-online-shopping system   💥Coming soon💥
-- 💼 **Portfolio:** https://dev-natinael-chufamo.vercel.app
+🔭 Building full-stack web applications and practical digital solutions for businesses.
 
-## 📈 Contribution Activity Graph
+🌐 Experienced in developing dynamic websites, REST APIs, authentication systems, and admin dashboards.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Natinael-chufa&theme=tokyo-night)
+🚀 Deployed a real-world construction business website: 3D General Constructions.
 
+🔐 Interested in authentication, application security, database design, and scalable architectures.
 
+📱 Building responsive, mobile-friendly, and installable web experiences.
 
-## 💻 Tech Stack & Skills
+🔎 Learning and implementing SEO fundamentals to improve website discoverability.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mysql,mongodb,postgresql,git,github,netlify,npm," />
+🤝 Open to collaborating with developers, entrepreneurs, and businesses.
+
+📍 Location: Ethiopia.
+
+🛠️ Tech Stack & Skills
+
+Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next" alt="Frontend technologies" /> </p>
+
+Backend Development & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres" alt="Backend and database technologies" />
 </p>
 
+Tools & Development
 
-## 📊 GitHub Overview
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,netlify,vercel" alt="Development tools" />
+</p>
 
-### 🚀 GitHub Highlights
-- ✅ **750+ commits in the last year**
-- ⭐ **6+ GitHub stars**
-- 📂 **Multiple real-world projects**
-- 🔥 **Consistent & active contributor**
+Core skills: Responsive Web Design · REST APIs · JWT Authentication · Admin Dashboards · Database Integration · Basic SEO · Mobile-First Development
+
+🚀 Featured Projects
+
+🏗️ 1. 3D General Constructions — Business Website
+
+A dynamic website developed for a construction business to showcase its services, completed projects, and professional presence online.
+
+Key Features
+
+Responsive website for desktop and mobile devices.
+
+Installable web app experience on supported mobile devices.
+
+Admin dashboard for website management.
+
+JWT-based authentication.
+
+MySQL database integration.
+
+Basic SEO implementation.
+
+Dynamic construction projects and service pages.
+
+Tech Stack: React.js · Node.js · Express.js · MySQL · JWT
+
+🌐 Visit Live Website
+
+🍔 2. Food Delivery Application
+
+A full-stack food delivery project featuring a modern user interface and backend functionality.
+
+🌐 Explore Project
+
+🛒 3. E-Commerce & Online Shopping
+
+Building dynamic e-commerce experiences with product listings, shopping functionality, and backend integration.
+
+🚧 Continuously developing and improving my e-commerce projects.
+
+🌐 Personal Portfolio
+
+Explore my projects, technical skills, and development journey.
+
+🔗 natinaelchufamo.pro.et
+
+📊 GitHub Overview
+
+GitHub Stats
 
 
-### 📈 GitHub Stats (Live)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Natinael-chufa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-
-### 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Natinael-chufa&layout=compact&theme=tokyonight)
-
-
-### 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Natinael-chufa&theme=tokyonight)
+Most Used Languages
 
 
 
-### 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Natinael-chufa&theme=tokyonight&margin-w=10)
+Contribution Streak
 
 
-## 🌍 Profile Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=Natinael-chufa&label=Profile%20Views&color=blue)
-![Followers](https://img.shields.io/github/followers/Natinael-chufa?label=Followers&style=social)
+Contribution Activity
 
 
-## 📫 Connect With Me
 
-- 💼 **Portfolio:** https://dev-natinael-chufamo.vercel.app
-- 💬 **LinkedIn:** https://www.linkedin.com/in/natinael-chufamo-a6a580356
-- 📧 **Email:** developernatinael@gmail.com
+GitHub Trophies
 
----
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+
+📈 GitHub Highlights
+
+💻 1500+ commits in the last year (as previously tracked)
+
+⭐ 10+ GitHub stars (as previously tracked)
+
+🚀 Multiple personal and real-world projects.
+
+🌱 Continuously learning and improving my engineering skills.
+
+🤝 Interested in open-source collaboration and meaningful software projects.
+
+🌍 Connect With Me
+
+<p>   <a href="https://natinaelchufamo.pro.et">     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/natinael-chufamo-a6a580356">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:developernatinael@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+💡 My Goal
+
+To become a highly skilled software engineer by building useful products, solving real-world problems, collaborating with talented people, and continuously adapting to modern technologies.
+
+Have a project idea or need a website for your business? Let's connect and build something meaningful! 🚀
+
+⭐ If you find my projects useful, consider starring the repositories and following my GitHub journey.
+

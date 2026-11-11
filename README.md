@@ -1,156 +1,96 @@
-👋 Hi, I'm Natinael Chufamo
+# Hi there, I'm Natinael Chufamo 👋
 
-🚀 Full-Stack Developer | Software Engineer
+### 🚀 Full-Stack Software Developer
 
-I build modern, responsive, and user-friendly web applications that solve real-world problems and help businesses establish a strong digital presence.
+I engineer scalable, responsive web applications and full-stack digital solutions that deliver real-world business value. Driven by clean code, robust software architecture, security best practices, and continuous technical growth.
 
-💻 who loves building in full-stack development, scalable applications, clean code, and continuous learning.
+📍 **Based in:** Ethiopia  
+💼 **Availability:** Open to Remote & Contract Opportunities  
+🌐 **Portfolio:** [natinaelchufamo.pro.et](https://natinaelchufamo.pro.et)  
+📧 **Contact:** [developernatinael@gmail.com](mailto:developernatinael@gmail.com)
 
-🌍 Based in Ethiopia | Open to Remote Opportunities
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-🔭 Building full-stack web applications and practical digital solutions for businesses.
+- 🔭 **Currently Building:** High-performance web apps, production REST APIs, and client administration platforms.
+- 🛠️ **Core Focus:** Full-Stack Web Development, System Architecture, Database Optimization (SQL/NoSQL), and Application Security.
+- 🔐 **Engineering Interests:** JWT/OAuth authentication patterns, transactional data integrity, native database search engines, and PWA capabilities.
+- 🤝 **Collaboration:** Open to collaborating on innovative open-source projects, SaaS platforms, and enterprise solutions.
 
-🌐 Experienced in developing dynamic websites, REST APIs, authentication systems, and admin dashboards.
+---
 
-🚀 Deployed a real-world construction business website: 3D General Constructions.
+## 🛠️ Tech Stack & Skills
 
-🔐 Interested in authentication, application security, database design, and scalable architectures.
-
-📱 Building responsive, mobile-friendly, and installable web experiences.
-
-🔎 Learning and implementing SEO fundamentals to improve website discoverability.
-
-🤝 Open to collaborating with developers, entrepreneurs, and businesses.
-
-📍 Location: Ethiopia.
-
-🛠️ Tech Stack & Skills
-
-Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,next" alt="Frontend technologies" /> </p>
-
-Backend Development & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgres" alt="Backend and database technologies" />
+#### **Frontend Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,js,tailwind,bootstrap,html,css" alt="Frontend Technologies" />
 </p>
 
-Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,npm,vscode,netlify,vercel" alt="Development tools" />
+#### **Backend & Database Systems**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" alt="Backend Technologies" />
 </p>
 
-Core skills: Responsive Web Design · REST APIs · JWT Authentication · Admin Dashboards · Database Integration · Basic SEO · Mobile-First Development
+#### **Tooling & Cloud Deployment**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,bash,npm,vercel,netlify" alt="Dev Tools" />
+</p>
 
-🚀 Featured Projects
+> **Core Competencies:** Full-Stack Web Development · RESTful API Design · Database Schema Design & Optimization · JWT & Session Authentication · Progressive Web Apps (PWA) · SEO Optimization · Security Best Practices
 
-🏗️ 1. 3D General Constructions — Business Website
+---
 
-A dynamic website developed for a construction business to showcase its services, completed projects, and professional presence online.
+## 🚀 Featured Projects
 
-Key Features
+### 🏗️ 1. [3D General Constructions](https://3dgeneralconstructions.com/) — Corporate Web Portal & Admin Dashboard
+A production-ready web platform built for a general construction company to streamline digital business presence and content administration.
+- **Key Features:**
+  - Dynamic corporate project catalog with mobile-first responsive architecture.
+  - Custom administrative control panel with secure JWT authentication.
+  - Relational database schema engineered for optimal project querying.
+  - Installable PWA capability for quick mobile field access.
+- **Tech Stack:** React.js, Node.js, Express.js, MySQL, JWT, Tailwind CSS
 
-Responsive website for desktop and mobile devices.
+### 🍔 2. Food Delivery Platform
+A full-stack food delivery application built with modern architecture focusing on intuitive user experience and dynamic state management.
+- **Key Features:** Interactive restaurant/menu display, dynamic shopping cart, order validation workflows, and structured REST API endpoints.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
-Installable web app experience on supported mobile devices.
+### 🛒 3. Miya Collections — Modern E-Commerce Platform
+An optimized full-stack e-commerce web application featuring high-performance asset handling and checkout safety controls.
+- **Key Features:** Dynamic mega-menu navigation, server-side dynamic image processing pipelines, transactional checkout validation, and custom database search integration.
+- **Tech Stack:** Next.js, Node.js, PostgreSQL, Redux Toolkit, Tailwind CSS
 
-Admin dashboard for website management.
+---
 
-JWT-based authentication.
-
-MySQL database integration.
-
-Basic SEO implementation.
-
-Dynamic construction projects and service pages.
-
-Tech Stack: React.js · Node.js · Express.js · MySQL · JWT
-
-🌐 Visit Live Website
-
-🍔 2. Food Delivery Application
-
-A full-stack food delivery project featuring a modern user interface and backend functionality.
-
-🌐 Explore Project
-
-🛒 3. E-Commerce & Online Shopping
-
-Building dynamic e-commerce experiences with product listings, shopping functionality, and backend integration.
-
-🚧 Continuously developing and improving my e-commerce projects.
-
-🌐 Personal Portfolio
-
-Explore my projects, technical skills, and development journey.
-
-🔗 natinaelchufamo.pro.et
-
-## 📊 GitHub Overview
-
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natinael-chufa&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Natinael's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natinael-chufa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Natinael's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natinael-chufa&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
-### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natinael-chufa&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=Natinael-chufa&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
 </p>
 
-### 🔥 GitHub Contribution Streak
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Natinael-chufa&theme=tokyonight&hide_border=true&border_radius=10" alt="Natinael's GitHub Contribution Streak" />
-</p>
+## 🌐 Connect With Me
 
-### 📅 Contribution Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Natinael-chufa&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Natinael-chufa&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-📈 GitHub Highlights
-
-💻 1500+ commits in the last year (as previously tracked)
-
-⭐ 10+ GitHub stars (as previously tracked)
-
-🚀 Multiple personal and real-world projects.
-
-🌱 Continuously learning and improving my engineering skills.
-
-🤝 Interested in open-source collaboration and meaningful software projects.
-
-🌍 Connect With Me
-
-<p>   <a href="https://natinaelchufamo.pro.et">     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Work-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+<p align="left">
+  <a href="https://natinaelchufamo.pro.et">
+    <img src="https://img.shields.io/badge/Portfolio-natinaelchufamo.pro.et-007ACC?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/natinael-chufamo-a6a580356">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Natinael_Chufamo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:developernatinael@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-developernatinael%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-💡 My Goal
+---
 
-To become a highly skilled software engineer by building useful products, solving real-world problems, collaborating with talented people, and continuously adapting to modern technologies.
-
-Have a project idea or need a website for your business? Let's connect and build something meaningful! 🚀
-
-⭐ If you find my projects useful, consider starring the repositories and following my GitHub journey.
-
+<p align="center"><i>Building impactful software, one commit at a time. ⭐ Feel free to star my repositories if you find my work useful!</i></p>
